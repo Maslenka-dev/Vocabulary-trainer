@@ -1,0 +1,17 @@
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\bin\Debug\net8.0-windows\Vocabulary trainer.exe
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\bin\Debug\net8.0-windows\Vocabulary trainer.deps.json
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\bin\Debug\net8.0-windows\Vocabulary trainer.runtimeconfig.json
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\bin\Debug\net8.0-windows\Vocabulary trainer.dll
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\bin\Debug\net8.0-windows\Vocabulary trainer.pdb
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary_trainer.Form1.resources
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary_trainer.Properties.Resources.resources
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.csproj.GenerateResource.cache
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.AssemblyInfoInputs.cache
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.AssemblyInfo.cs
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.dll
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\refint\Vocabulary trainer.dll
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.pdb
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\Vocabulary trainer.genruntimeconfig.cache
+D:\Programming\C#\awful code\Vocabulary trainer\Vocabulary trainer\obj\Debug\net8.0-windows\ref\Vocabulary trainer.dll
